@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQFC-F9Bh3pP0w/company-logo_200_200/B56Zh5fsrGHQAM-/0/1754385011748/agnirath_aerolabs_logo?e=1762387200&v=beta&t=lHjExfFsWn9Ou5wLCH1oKZSnp2akt9tcKy1eqQpp6kY" alt="Project Logo" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/235512831?s=200&v=4" alt="Project Logo" width="150" />
 </p>
 
 <h1 align="center">Agnirath Aerolabs</h1>
